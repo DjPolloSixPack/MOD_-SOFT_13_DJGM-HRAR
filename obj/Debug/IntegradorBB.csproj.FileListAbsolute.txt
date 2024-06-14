@@ -1,0 +1,13 @@
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\bin\Debug\IntegradorBB.exe.config
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\bin\Debug\IntegradorBB.exe
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\bin\Debug\IntegradorBB.pdb
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.csproj.AssemblyReference.cache
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.InicioSesion.resources
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.Properties.Resources.resources
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.RegistroProducto.resources
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.csproj.GenerateResource.cache
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.csproj.CoreCompileInputs.cache
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.exe
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\IntegradorBB.pdb
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\bin\Debug\MySql.Data.dll
+C:\Users\NUVO Game Station\OneDrive\Escritorio\Lenguajes\C#\IntegradorBB\obj\Debug\Integrad.CC92AC68.Up2Date
